@@ -1,0 +1,3 @@
+[submodule "pack/alex/start/vim-lsc"]
+	path = pack/alex/start/vim-lsc
+	url = https://github.com/natebosch/vim-lsc.git
